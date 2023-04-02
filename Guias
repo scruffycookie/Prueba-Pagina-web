@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Guias</title>
+  </head>
+  <body>
+    <h1>Guias</h1>
+    <p>Aqui estan nuestras ultimas guias disponibles:</p>
+    <ul>
+      <li><a href="#" onclick="openGuideWindow('videos/game1.mp4')">Guia CoH 3</a></li>
+      <li><a href="#" onclick="openGuideWindow('videos/game2.mp4')">Guia Black ops zombies</a></li>
+      <li><a href="#" onclick="openGuideWindow('videos/game3.mp4')">Guia Age 2 definitive</a></li>
+    </ul>
+    
+    <script>
+      function openGuideWindow(url) {
+        window.open(url, 'guideWindow', 'width=800,height=600');
+      }
+    </script>
+  </body>
+</html>

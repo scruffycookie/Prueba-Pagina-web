@@ -8,8 +8,18 @@
     <p>Aqui estan nuestras ultimas guias disponibles:</p>
     <ul>
       <li><a href="#" onclick="openGuideWindow('videos/game1.mp4')">Guia CoH 3</a></li>
+      <p>En esta guia mostraremos una build order y como funciona en si con sus fuertes y debilidades en una partia 2v2 </p>
+
       <li><a href="#" onclick="openGuideWindow('videos/game2.mp4')">Guia Black ops zombies</a></li>
-      <li><a href="#" onclick="openGuideWindow('videos/game3.mp4')">Guia Age 2 definitive</a></li>
+      <p> En esta guia mostraremos como hacer el easter egg de el mapa origins de black ops 2 en black ops origins </p>
+
+
+
+      <li><a href="#" onclick="openGuideWindow('videos/game3.mp4')">Guia Age 2 definitive edition</a></li>
+      <p>En esta guia veremos como hacer fast castle con cualquier nacion en 2v2 arabia</p>
+
+
+
     </ul>
     
     <script>
